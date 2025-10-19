@@ -15,7 +15,7 @@ export default function Home() {
           lineItems:[{price:"price_1RpmXQ4rv3nB2eYtBTV8i1zR",quantity:1}]
         })
       })}
-      >Buy now</button>
+      >Buy Now</button>
     </main>
   )
 }
